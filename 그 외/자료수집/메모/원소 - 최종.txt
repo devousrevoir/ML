@@ -1,0 +1,25 @@
+COMPONENT_ARBITRARY : 샘플 오일 관련 부품 (Component 4종, 비식별화)
+ANONYMOUS : 무명 Feature
+YEAR : 오일 샘플 및 진단 해 (Year)
+SAMPLE_TRANSFER_DAY : 오일 샘플링 후 진단 기관으로 이동한 기간 (Days)
+
+F ~ = FT-IR로 측정했다는 의미
+FH2O : Water 수치(By FT-IR)
+FOXID : Oxidation 수치(By FT-IR) - 산화 수치
+FSO4 : SO4 수치(By FT-IR) - 황산화 수치
+FTBN : 염기성 첨가제물질 수치(By FT-IR) - 전알칼리가 수치 
+FOPTIMETHGLY : 비식별화
+
+
+SOOTPERCENTAGE : Soot 함유량(%) - 그을음의 함유량 
+U : 입자계수 
+V40, V100 : Viscosity 40도, 100도일때의 점도 (ISO 점도 등급은 약 40°C를 기준으로 합니다.
+					대부분의 오일 제조업체는 V100뿐만 아니라 일반적인 새 V40 점도를 게시합니다.
+					낮은 온도에서는 오일 흐름이 느려지므로 V40에서의 정확도가 더 높아질 수 있습니다.
+					물 및 연료와 같은 오염 물질은 100°C에서 격렬하게 끓을 수 있으며 잘못된 결과를 제공할 수 있습니다. )
+
+
+FUEL : 연료 함유량 - 합성유인지, 광유인지?
+
+
+Y_LABEL : 오일 정상 여부 (0 : 정상, 1 : 이상)
